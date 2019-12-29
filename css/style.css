@@ -1,0 +1,24 @@
+.red {
+	color: red
+}
+
+
+
+.bordo {
+border: 3px solid black;
+	border-radius: 20px;
+	width: 50%;
+	height: 55%;
+}
+
+
+.center {
+	text-align: center;
+}
+
+
+
+.cararcter {
+	font-size = "6";
+	
+}
